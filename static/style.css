@@ -6,7 +6,7 @@ background:#fff ;
 }
 
 
-h1 								{ background:#fff; color:#d63232; display:inline-block; margin-bottom:1em; padding:0.5em 1em;font-size:2em; }
+h1 								{ background:#fff; color:#d63232; display:inline-block; margin-bottom:1em; padding:0.5em 1em; }
 h2 								{ color:#d63232; font-weight:200; /* Heavy */ font-size:1em; letter-spacing:1px; line-height:1em; }
 h3 								{  font-size:1em; font-weight:200; /* Thin */ letter-spacing:1px; line-height:1em; padding:0.5em 0 0.25em 0; }
 
@@ -52,5 +52,5 @@ header nav ul li {
 }
 
 div.page {
-    background: #fff; color:#d63232;
+    background: #fff; color:#000000;
 }
