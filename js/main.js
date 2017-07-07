@@ -94,9 +94,11 @@ $(document).ready(function() {
 	
 	    $('#page-welcome').vegas({
         slides: [
-            { src: 'img/slider/01.jpg' },
-            { src: 'img/slider/02.jpg' },
-            { src: 'img/slider/03.jpg' },
+            { src: 'https://www.dropbox.com/s/uqvp7fw535envh9/01.JPG' },
+            { src: 'https://www.dropbox.com/s/gkvwl8qbehhdmtf/02.JPG' },
+            { src: 'https://www.dropbox.com/s/qhhwhovwt6pteme/03.JPG' },
+			{ src: 'https://www.dropbox.com/s/kqhos1avbmagtw0/04.JPG' },
+			{ src: 'img/slider/03.jpg' },
 			{ src: 'img/slider/04.jpg' }
         ],
     overlay: true
