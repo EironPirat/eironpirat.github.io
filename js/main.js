@@ -94,7 +94,8 @@ $(document).ready(function() {
 	
 	    $('#page-welcome').vegas({
         slides: [
-            { src: 'https://github.com/EironPirat/eironpirat.github.io/blob/master/img/slider/01.JPG' },
+            { src: '05.jpg' },
+			{ src: 'https://github.com/EironPirat/eironpirat.github.io/blob/master/img/slider/01.JPG' },
             { src: 'www.dropbox.com/s/gkvwl8qbehhdmtf/02.jpg' },
             { src: 'img/slider/01.jpg' },
 			{ src: 'https://www.dropbox.com/s/kqhos1avbmagtw0/04.JPG' },
