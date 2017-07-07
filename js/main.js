@@ -94,12 +94,12 @@ $(document).ready(function() {
 	
 	    $('#page-welcome').vegas({
         slides: [
-            { src: 'https://www.dropbox.com/s/uqvp7fw535envh9/01.JPG' },
-            { src: 'https://www.dropbox.com/s/gkvwl8qbehhdmtf/02.JPG' },
             { src: 'https://www.dropbox.com/s/qhhwhovwt6pteme/03.JPG' },
+            { src: 'www.dropbox.com/s/gkvwl8qbehhdmtf/02.jpg' },
+            { src: 'img/slider/01.jpg' },
 			{ src: 'https://www.dropbox.com/s/kqhos1avbmagtw0/04.JPG' },
-			{ src: 'img/slider/03.jpg' },
-			{ src: 'img/slider/04.jpg' }
+			{ src: 'https://www.dropbox.com/s/n7snhbeqv8s3oce/05.JPG?dl=0' },
+			{ src: 'https://www.dropbox.com/s/utsn5js9rrj1xhu/06.JPG?dl=0' }
         ],
     overlay: true
 });
