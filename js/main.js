@@ -98,9 +98,10 @@ $(document).ready(function() {
 			{ src: "img/slider/02.JPG" },
             { src: 'img/slider/03.JPG' },
             { src: 'img/slider/04.JPG' },
-			{ src: 'img/slider/06.jpg' },
-			{ src: 'https://www.dropbox.com/s/n7snhbeqv8s3oce/05.JPG?dl=0' },
-			{ src:  'img/slider/04.JPG' }
+			{ src: 'img/slider/05.jpg' },
+			/* { src: 'https://www.dropbox.com/s/n7snhbeqv8s3oce/05.JPG?dl=0' }, */
+			{ src:  'img/slider/06.JPG' },
+			{ src:  'img/slider/07.JPG' }
         ],
     overlay: true
 });
